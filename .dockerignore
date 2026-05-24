@@ -1,0 +1,52 @@
+# Git
+.git
+.gitignore
+.gitattributes
+.github
+
+# Build outputs
+build/
+bin/
+target/
+out/
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Node modules
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database files (akan dibuat di runtime)
+data/*.db
+*.mv.db
+*.trace.db
+
+# Documentation
+README.md
+HELP.md
+*.md
+
+# Test files
+sample-audio-test.txt
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
