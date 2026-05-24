@@ -1,0 +1,47 @@
+====================================================================
+BAGIAN A (Time Signature: 4/4) - Simple Melody
+====================================================================
+
+BAR 1 (Chord: C)
+Right Hand (RH)   :  C4  E4  G4  C5 |
+Left Hand  (LH)   :  C3  .   .   .  |
+
+BAR 2 (Chord: G)
+Right Hand (RH)   :  B4  G4  D4  G4 |
+Left Hand  (LH)   :  G2  .   .   .  |
+
+BAR 3 (Chord: Am)
+Right Hand (RH)   :  A4  C5  E5  A5 |
+Left Hand  (LH)   :  A2  .   .   .  |
+
+BAR 4 (Chord: F)
+Right Hand (RH)   :  F4  A4  C5  F5 |
+Left Hand  (LH)   :  F2  .   .   .  |
+
+====================================================================
+BAGIAN B (Time Signature: 3/4) - Waltz
+====================================================================
+
+BAR 5 (Chord: C)
+Right Hand (RH)   :  C4-E4-G4  .  . |
+Left Hand  (LH)   :  C2        C3 C3|
+
+BAR 6 (Chord: G7)
+Right Hand (RH)   :  B3-D4-F4  .  . |
+Left Hand  (LH)   :  G2        G3 G3|
+
+BAR 7 (Chord: C)
+Right Hand (RH)   :  C4-E4-G4  .  . |
+Left Hand  (LH)   :  C2        C3 C3|
+
+====================================================================
+BAGIAN C (Time Signature: 7/8) - Complex Rhythm
+====================================================================
+
+BAR 8 (Chord: Dm)
+Right Hand (RH)   :  D4  .  F4  .  A4  F4  D4 |
+Left Hand  (LH)   :  D3  .  .   D3 .   A3  .  |
+
+BAR 9 (Chord: G)
+Right Hand (RH)   :  G4  .  B4  .  D5  B4  G4 |
+Left Hand  (LH)   :  G2  .  .   G2 .   D3  .  |
