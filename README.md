@@ -27,10 +27,12 @@ Aplikasi web modern untuk membuat, mengedit, dan mengelola partitur musik piano.
 ### Prasyarat
 
 **Opsi 1: Menggunakan Docker (Recommended)**
+
 - Docker Desktop atau Docker Engine 20.10+
 - Docker Compose 2.0+
 
 **Opsi 2: Development Lokal**
+
 - JDK 17 atau lebih tinggi
 - Gradle (sudah termasuk via wrapper)
 
@@ -301,5 +303,3 @@ Proyek ini dilisensikan di bawah MIT License.
 Untuk pertanyaan atau feedback, silakan buka issue di GitHub.
 
 ---
-
-Dibuat dengan ❤️ dan ☕ oleh tim Music Sheet Builder
