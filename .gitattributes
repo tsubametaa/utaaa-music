@@ -1,3 +1,19 @@
 /gradlew text eol=lf
 *.bat text eol=crlf
 *.jar binary
+
+# Exclude generated files and dependencies from GitHub language statistics
+node_modules/** linguist-vendored
+src/main/frontend/generated/** linguist-generated
+build/** linguist-generated
+.gradle/** linguist-generated
+gradle/wrapper/** linguist-vendored
+
+# Mark frontend config files as documentation
+*.css linguist-documentation
+*.json linguist-documentation=false
+package-lock.json linguist-generated
+
+# Ensure Kotlin is detected as main language
+*.kt linguist-detectable=true
+*.kts linguist-detectable=true
